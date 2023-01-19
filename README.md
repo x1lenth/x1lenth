@@ -29,7 +29,9 @@ I am a..... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### 🔥 &nbsp; My Stats :
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x1lenth&theme=dark&background=000000)](https://git.io/streak-stats)
+</p>
 
 
 ---
