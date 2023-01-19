@@ -7,11 +7,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
 I am a..... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.... .
 
-- 📫 How to reach me: &nbsp; 
+- 📫 How to reach me: &nbsp; [![Discord](https://img.shields.io/badge/discord-join-7289DA.svg)](https://discord.com/invite/j8P7hbjfrm) or x1lenth#0001 
 
 ---
 
@@ -22,6 +22,7 @@ I am a..... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### 🔥 &nbsp; My Stats :
+That was my stats @Github, but since 19.01.2023 I moved to Gitlab. 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x1lenth&theme=dark&background=000000)](https://git.io/streak-stats)
 
